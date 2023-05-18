@@ -1,7 +1,7 @@
 # GifsAppV3
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
-Proyeco que buscar gifs en https://api.giphy.com/v1/gifs
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4 and Boostrap.
+Proyecto que buscar gifs en https://api.giphy.com/v1/gifs
 -Solo mostrara 12 gifs de la busqueda.
 .Se almacenara en el localStorage.
 -Se almacena la palabra clave de la busqueda en el sidebar(solo 10 items).
