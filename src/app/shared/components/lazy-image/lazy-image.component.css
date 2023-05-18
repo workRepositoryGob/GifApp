@@ -1,0 +1,4 @@
+.custom-card-img {
+  height: 300px; /* Ajusta el tamaño deseado */
+  object-fit: cover;
+}

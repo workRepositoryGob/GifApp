@@ -1,0 +1,5 @@
+
+.custom-card .card-text {
+  max-height: 100px; /* Ajusta la altura máxima deseada para el texto */
+  overflow: hidden;
+}
